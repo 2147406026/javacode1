@@ -1,5 +1,5 @@
 public class HelloWorld{
-  public static void mian(String[] args){
-    System.out.println("shizhenbang:version 1");
+  public static void  main(String[] args){
+    System.out.println("hehao16:version 1");
   }
 }
